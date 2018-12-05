@@ -8,7 +8,12 @@
 
 
 body{
-  background-color: #F2F2F2;
+  background-color: #d3f9d7;
+}
+
+div.container{
+  background-color:  #f6d6be;
+  font-family: 'Source Code Pro', monospace;
 }
 
 
